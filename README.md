@@ -12,8 +12,10 @@ First Line is the number of matches.
 In the subsequent lines are the scores of each match separated by a spacing. Each score should be on a different line.
 
 Example of Input:
-3
-7 0 
-3 2
-9 2
+First Line: 3
+Second Line: 7 0 
+Third Line: 3 2
+Fourth Lin: 9 2
+
+
 sampleinput.txt for example of input!
