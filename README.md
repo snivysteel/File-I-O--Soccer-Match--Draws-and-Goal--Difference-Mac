@@ -8,8 +8,12 @@ and the respective matches.
 Thanks to Liew Zhao Wei (http://github.com/zwliew) for helping with a bit of the code.
 
 Sample Input:
-<Number of Matches>Eg. 10
-<Score seperated by a spacing>Eg. 3 0
-<Score 2 on the next line>
+First Line is the number of matches.
+In the subsequent lines are the scores of each match separated by a spacing. Each score should be on a different line.
 
+Example of Input:
+3
+7 0 
+3 2
+9 2
 sampleinput.txt for example of input!
