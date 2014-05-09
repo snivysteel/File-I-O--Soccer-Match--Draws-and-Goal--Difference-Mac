@@ -15,7 +15,7 @@ Example of Input:
 First Line: 3
 Second Line: 7 0 
 Third Line: 3 2
-Fourth Lin: 9 2
+Fourth Line: 9 2
 
 
 sampleinput.txt for example of input!
